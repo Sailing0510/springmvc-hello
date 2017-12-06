@@ -5,7 +5,7 @@ public class UserException extends RuntimeException{
 	public UserException(String string) {
 	}
 
-	/**   DD
+	/**   DD  
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
